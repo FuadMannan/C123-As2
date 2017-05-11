@@ -9,7 +9,7 @@ namespace Assignment2 {
 		static void Main(string[] args) {
 
 			Console.WriteLine("Hey");
-
+            Console.WriteLine("NO");
 
 
 		}
